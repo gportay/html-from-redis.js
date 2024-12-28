@@ -1,0 +1,12 @@
+{
+  "name": "html-from-redis",
+  "version": "0.0.0",
+  "description": "Throwaway repository to get a first step in the world of Node.js.",
+  "license": "LGPL-2.1-or-later",
+  "author": "Gaël PORTAY",
+  "type": "module",
+  "main": "server.mjs",
+  "scripts": {
+    "test": "node server.mjs"
+  }
+}
